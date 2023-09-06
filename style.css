@@ -1,0 +1,29 @@
+
+p{
+    color: blueviolet;
+}
+div.para{
+    color: aqua;
+}
+p.para{
+    color: coral;
+}
+ol>li{
+    color:fuchsia
+}
+/* li+li{
+    color: chocolate;
+} */
+/* li#fav-movie+li{
+    color: rgb(69,69,69);
+} */
+li~li{
+    color: darkorchid;
+}
+/* .para1{
+    color: aqua;
+
+}
+#one{
+    color:blue;
+} */
